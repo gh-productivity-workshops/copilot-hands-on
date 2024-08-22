@@ -55,6 +55,6 @@ After the codespace has started, open the labs document by going to the file tre
 This will open it up in a tab above your terminal. Then you can follow along with the steps in the labs. 
 Any command in the gray boxes is either code intended to be run in the console or code to be updated in a file.
 
-Labs doc: [Copilot Hands-on Labs](labs.md)
+---
 
-
+Labs doc: [Copilot Hands-on Labs](labs-intro.md)
