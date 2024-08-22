@@ -43,23 +43,7 @@ Now we can see the labs.md file to one side of the screen while we are executing
 
 ![Split View](./images/pic001.png?raw=true "Split View")
 
-### 4. Switch to the Insiders version of Visual Studio Code in the browser
-
-If you are using the VS Code web client, you can switch to the Insiders version of the application to ensure you are working with the very latest version. For more information about this version of VS Code, see [Introducing the Insiders Build](https://code.visualstudio.com/blogs/2016/02/01/introducing_insiders_build) in the VS Code blog.
-
-After you switch versions in a codespace, the web client will continue to use the Insiders version if you stop and restart the codespace. New codespaces that you create and open in the VS Code web client will also use the Insiders version.
-
-1. In bottom left of the browser window that's displaying a codespace, click .
-
-2. In the menu, select `Switch to Insiders Version.`
-
-![Switch to Insiders Version](./images/pic014.png?raw=true "Switch to Insiders Version")
-
-3. Click **Reload**.
-
-To switch back to the Stable version of VS Code, repeat the process but choose `Switch to Stable Version`. After you switch back, the codespace will continue to use the Stable version if you stop and restart the codespace. New codespaces that you create and open in the VS Code web client will also use the Stable version.
-
-### 5. Let us know how we are doing
+### 4. Let us know how we are doing
 <!-- Instruct lab participants to leverage GitHub disussions found here: https://github.com/DaveOps30/copilot-hands-on/discussions -->
 <!-- Specifically reference the "Workshop Feedback & Suggestions" and "Workshop Issues" categories -->
 We are leveraging [**GitHub Discussions**](https://github.com/DaveOps30/copilot-hands-on/discussions) located in this repository for real time issue reporting, feedback and suggestions.
