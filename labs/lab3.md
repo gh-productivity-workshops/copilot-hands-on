@@ -49,4 +49,4 @@ simplify
 
 
 ## Next ➡️
-[Continue to the next Lab](labs/ab4.md)
+[Continue to the next Lab](lab4.md)
